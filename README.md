@@ -1,3 +1,3 @@
 # Latex-Resume
 
-![resume.pdf](Resume.pdf)
+![resume.pdf](resume.jpg)
